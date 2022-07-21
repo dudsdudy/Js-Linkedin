@@ -1,4 +1,4 @@
-// Declaramos as constantes
+// Declaramos as constantes .
 const FEATURED = document.querySelector(".featured-image");
 const THEIMAGE = FEATURED.querySelector("img");
 

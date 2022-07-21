@@ -1,4 +1,4 @@
-function logScope(){
+/*function logScope(){
     let localVar = 2;
 
     if(localVar){
@@ -9,5 +9,9 @@ function logScope(){
     console.log("logScope localVar: ", localVar);
 }
 
-logScope();
+logScope();*/
+
+const minhaConstante = 5
+console.log(minhaConstante)
+minhaConstante = 6
 
