@@ -15,17 +15,17 @@
 /* Clock styles */
 .circle {
     fill: none;
-    stroke: #000;
+    stroke: red;
     stroke-width: 9;
     stroke-miterlimit: 10;
 }
 
 .mid-circle {
-    fill: #000;
+    fill: blueviolet;
 }
 .hour-marks {
     fill: none;
-    stroke: #000;
+    stroke: yellow;
     stroke-width: 9;
     stroke-miterlimit: 10;
 }
